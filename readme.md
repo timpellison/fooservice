@@ -23,7 +23,7 @@ We aren't allowed access to production for info sec reasons so our recourse is t
 deploy the updated query to production and collect duration statistics to determine 
 if it is indeed faster.
 
-Our benefactors have incorporate Flaggy! into our enterprise.  
+Our benefactors have incorporated [Flaggy!](https://github.com/timpellison/flaggy) into our enterprise.  
 
 ### Pretend
 There is no dashboard however, we are going to pretend we have a dashboard 
